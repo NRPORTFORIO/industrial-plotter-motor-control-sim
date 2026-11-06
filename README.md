@@ -54,5 +54,5 @@ AIの提示したコードをそのまま鵜呑みにするのではなく、組
 ![Wandboxでの動作検証画面](IMG_0214.png)
 <figure>c言語</figure>
 
-![Wandboxでの動作検証画面](IMG_0213.png)
+![Wandboxでの動作検証画面](IMG_0215.png)
 <figure>Python</figure>
